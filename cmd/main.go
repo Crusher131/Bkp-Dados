@@ -18,18 +18,23 @@ func main() {
 	logger.Init(logger.SetLogFile(LogFile))
 	logger.Info("Carregando Arquivos de configurações")
 	if err := vconf.Init(conf_path, conf_file); err != nil {
-
+		s = false
+		wapp.SendMsg(s, err)
 		logger.Fatal(err)
 	}
 	logger.Info("configurações carregadas com sucesso")
 	logger.Info("iniciando backup")
 	if err := backup.BackupCreate(); err != nil {
+		s = false
+		wapp.SendMsg(s, err)
 		logger.Error(fmt.Errorf("erro ao fazer o backup dos arquivos"))
 		logger.Fatal(fmt.Errorf("%e", err))
 	}
 	logger.Info("backup Efetuado com sucesso!")
 	logger.Info("removendo arquivos com data maior que a retenção")
 	if err := retention.RetentionRemove(); err != nil {
+		s = false
+		wapp.SendMsg(s, err)
 		logger.Error(fmt.Errorf("erro ao remover arquivos antigos"))
 		logger.Warn(fmt.Sprint(err))
 	}
