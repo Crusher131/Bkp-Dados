@@ -1,0 +1,300 @@
+21/2/2025 10:10:36 190507 WARN: &{%!e(*os.ProcessState=&{190512 256 0xc000162090}) []}
+21/2/2025 10:10:8 190746 WARN: &{%!e(*os.ProcessState=&{190751 256 0xc0000f4090}) []}
+21/2/2025 10:10:29 191724 WARN: &{%!e(*os.ProcessState=&{191730 256 0xc00016c090}) []}
+21/2/2025 10:10:0 191868 WARN: &{%!e(*os.ProcessState=&{191873 256 0xc0000f4090}) []}
+21/2/2025 10:10:0 191868 INFO: Arquivo teste1.jpg tem a duração maior que o tempo de retenção: 1105.96
+21/2/2025 10:10:0 191868 INFO: Tempo de retenção: 24.00	Tempo do arquivo: 1105.96
+21/2/2025 10:10:0 191868 INFO: O arquivo será removido
+21/2/2025 10:10:0 191868 INFO: removido 'teste1.jpg'
+
+21/2/2025 10:10:0 191868 INFO: Arquivo teste2.jpeg tem a duração maior que o tempo de retenção: 2066.17
+21/2/2025 10:10:0 191868 INFO: Tempo de retenção: 24.00	Tempo do arquivo: 2066.17
+21/2/2025 10:10:0 191868 INFO: O arquivo será removido
+21/2/2025 10:10:0 191868 INFO: removido 'teste2.jpeg'
+
+21/2/2025 10:10:0 191868 INFO: Arquivo teste3.jpg tem a duração maior que o tempo de retenção: 1751.82
+21/2/2025 10:10:0 191868 INFO: Tempo de retenção: 24.00	Tempo do arquivo: 1751.82
+21/2/2025 10:10:0 191868 INFO: O arquivo será removido
+21/2/2025 10:10:0 191868 INFO: removido 'teste3.jpg'
+
+21/2/2025 10:10:0 191868 INFO: Arquivo teste4.jpg tem a duração maior que o tempo de retenção: 1751.79
+21/2/2025 10:10:0 191868 INFO: Tempo de retenção: 24.00	Tempo do arquivo: 1751.79
+21/2/2025 10:10:0 191868 INFO: O arquivo será removido
+21/2/2025 10:10:0 191868 INFO: removido 'teste4.jpg'
+
+21/2/2025 10:10:0 191868 INFO: Arquivo teste5.pdf tem a duração maior que o tempo de retenção: 859.32
+21/2/2025 10:10:0 191868 INFO: Tempo de retenção: 24.00	Tempo do arquivo: 859.32
+21/2/2025 10:10:0 191868 INFO: O arquivo será removido
+21/2/2025 10:10:0 191868 INFO: removido 'teste5.pdf'
+
+21/2/2025 10:10:0 191868 INFO: Arquivo teste6.jpg tem a duração maior que o tempo de retenção: 2208.33
+21/2/2025 10:10:0 191868 INFO: Tempo de retenção: 24.00	Tempo do arquivo: 2208.33
+21/2/2025 10:10:0 191868 INFO: O arquivo será removido
+21/2/2025 10:10:0 191868 INFO: removido 'teste6.jpg'
+
+21/2/2025 10:10:24 192091 WARN: &{%!e(*os.ProcessState=&{192096 256 0xc000184090}) []}
+21/2/2025 10:10:30 192711 WARN: &{%!e(*os.ProcessState=&{192717 256 0xc00016c090}) []}
+21/2/2025 10:10:40 192912 WARN: &{%!e(*os.ProcessState=&{192917 256 0xc00013a090}) []}
+21/2/2025 10:10:0 193143 INFO: ########
+21/2/2025 10:10:0 193143 WARN: &{%!e(*os.ProcessState=&{193148 256 0xc00013a090}) []}
+21/2/2025 10:10:0 193143 INFO: ########
+21/2/2025 10:10:8 197508 INFO: ########
+21/2/2025 10:10:8 197508 WARN: &{%!e(*os.ProcessState=&{197513 256 0xc0000f4090}) []}
+21/2/2025 10:10:15 197707 INFO: ########
+21/2/2025 10:10:15 197707 WARN: &{%!e(*os.ProcessState=&{197712 256 0xc00013a090}) []}
+21/2/2025 10:10:23 197912 INFO: ########
+21/2/2025 10:10:23 197912 INFO: ########
+21/2/2025 10:10:23 197912 WARN: &{%!e(*os.ProcessState=&{197917 256 0xc000162090}) []}
+21/2/2025 11:11:4 198347 WARN: &{%!e(*os.ProcessState=&{198352 256 0xc0000f4090}) []}
+21/2/2025 11:11:44 199320 WARN: &{%!e(string=erro ao executar 'tar [-czf /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz /home/jeferson/Documents/teste]': exit status 1
+Saída: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+)}
+21/2/2025 11:11:40 200382 WARN: &{%!e(*os.ProcessState=&{200387 256 0xc00013a090}) []}
+21/2/2025 11:11:22 201773 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 11:11:42 203061 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 11:11:6 203494 INFO: Carregando Arquivos de configurações
+21/2/2025 11:11:6 203494 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 11:11:47 204198 INFO: Carregando Arquivos de configurações
+21/2/2025 11:11:47 204198 INFO: Configurações carregadas com sucesso
+21/2/2025 11:11:47 204198 INFO: Iniciando backup
+21/2/2025 11:11:48 204198 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 11:11:48 204198 INFO: Removendo arquivos com data maior que a retenção
+21/2/2025 11:11:32 204527 INFO: Carregando Arquivos de configurações
+21/2/2025 11:11:32 204527 INFO: Configurações carregadas com sucesso
+21/2/2025 11:11:32 204527 INFO: Iniciando backup
+21/2/2025 11:11:33 204527 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 11:11:33 204527 INFO: Backup Efetuado com sucesso!
+21/2/2025 11:11:33 204527 INFO: Removendo arquivos com data maior que a retenção
+21/2/2025 11:11:59 204978 INFO: Carregando Arquivos de configurações
+21/2/2025 11:11:59 204978 INFO: configurações carregadas com sucesso
+21/2/2025 11:11:59 204978 INFO: iniciando backup
+21/2/2025 11:11:59 204978 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 11:11:59 204978 INFO: backup Efetuado com sucesso!
+21/2/2025 11:11:59 204978 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 11:11:52 210774 INFO: Carregando Arquivos de configurações
+21/2/2025 11:11:52 210774 WARN: arquivo: não existe config/config.yaml
+21/2/2025 11:11:52 210774 INFO: configurações carregadas com sucesso
+21/2/2025 11:11:52 210774 INFO: iniciando backup
+21/2/2025 11:11:52 210774 ERROR: erro ao fazer o backup dos arquivos
+21/2/2025 11:11:52 210774 FATAL ERROR: &{%!e(*os.ProcessState=&{210779 512 0xc000184090}) []}
+
+21/2/2025 11:11:17 210931 INFO: Carregando Arquivos de configurações
+21/2/2025 11:11:17 210931 INFO: configurações carregadas com sucesso
+21/2/2025 11:11:17 210931 INFO: iniciando backup
+21/2/2025 11:11:17 210931 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 11:11:17 210931 INFO: backup Efetuado com sucesso!
+21/2/2025 11:11:17 210931 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 14:14:59 228191 INFO: Carregando Arquivos de configurações
+21/2/2025 14:14:59 228191 INFO: configurações carregadas com sucesso
+21/2/2025 14:14:59 228191 INFO: iniciando backup
+21/2/2025 14:14:59 228191 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 14:14:59 228191 INFO: backup Efetuado com sucesso!
+21/2/2025 14:14:59 228191 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 14:14:14 228740 INFO: Carregando Arquivos de configurações
+21/2/2025 14:14:14 228740 INFO: configurações carregadas com sucesso
+21/2/2025 14:14:14 228740 INFO: iniciando backup
+21/2/2025 14:14:14 228740 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 14:14:14 228740 INFO: backup Efetuado com sucesso!
+21/2/2025 14:14:14 228740 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 14:14:26 229441 INFO: Carregando Arquivos de configurações
+21/2/2025 14:14:26 229441 INFO: configurações carregadas com sucesso
+21/2/2025 14:14:26 229441 INFO: iniciando backup
+21/2/2025 14:14:26 229441 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 14:14:26 229441 INFO: backup Efetuado com sucesso!
+21/2/2025 14:14:26 229441 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 14:14:18 231996 INFO: Carregando Arquivos de configurações
+21/2/2025 14:14:18 231996 INFO: configurações carregadas com sucesso
+21/2/2025 14:14:18 231996 INFO: iniciando backup
+21/2/2025 14:14:18 231996 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 14:14:18 231996 INFO: backup Efetuado com sucesso!
+21/2/2025 14:14:18 231996 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 14:14:38 232636 INFO: Carregando Arquivos de configurações
+21/2/2025 14:14:38 232636 INFO: configurações carregadas com sucesso
+21/2/2025 14:14:38 232636 INFO: iniciando backup
+21/2/2025 14:14:38 232636 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 14:14:38 232636 INFO: backup Efetuado com sucesso!
+21/2/2025 14:14:38 232636 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 14:14:1 233349 INFO: Carregando Arquivos de configurações
+21/2/2025 14:14:1 233349 INFO: configurações carregadas com sucesso
+21/2/2025 14:14:1 233349 INFO: iniciando backup
+21/2/2025 14:14:1 233349 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 14:14:1 233349 INFO: backup Efetuado com sucesso!
+21/2/2025 14:14:1 233349 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 14:14:9 233545 INFO: Carregando Arquivos de configurações
+21/2/2025 14:14:9 233545 INFO: configurações carregadas com sucesso
+21/2/2025 14:14:9 233545 INFO: iniciando backup
+21/2/2025 14:14:9 233545 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 14:14:9 233545 INFO: backup Efetuado com sucesso!
+21/2/2025 14:14:9 233545 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 14:14:6 234219 INFO: Carregando Arquivos de configurações
+21/2/2025 14:14:6 234219 INFO: configurações carregadas com sucesso
+21/2/2025 14:14:6 234219 INFO: iniciando backup
+21/2/2025 14:14:6 234219 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 14:14:6 234219 INFO: backup Efetuado com sucesso!
+21/2/2025 14:14:6 234219 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 14:14:18 234839 INFO: Carregando Arquivos de configurações
+21/2/2025 14:14:18 234839 INFO: configurações carregadas com sucesso
+21/2/2025 14:14:18 234839 INFO: iniciando backup
+21/2/2025 14:14:18 234839 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 14:14:18 234839 INFO: backup Efetuado com sucesso!
+21/2/2025 14:14:18 234839 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 14:14:26 235184 INFO: Carregando Arquivos de configurações
+21/2/2025 14:14:26 235184 INFO: configurações carregadas com sucesso
+21/2/2025 14:14:26 235184 INFO: iniciando backup
+21/2/2025 14:14:26 235184 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 14:14:26 235184 INFO: backup Efetuado com sucesso!
+21/2/2025 14:14:26 235184 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 14:14:54 241967 INFO: Carregando Arquivos de configurações
+21/2/2025 14:14:54 241967 INFO: configurações carregadas com sucesso
+21/2/2025 14:14:54 241967 INFO: iniciando backup
+21/2/2025 14:14:54 241967 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 14:14:54 241967 INFO: backup Efetuado com sucesso!
+21/2/2025 14:14:54 241967 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 14:14:16 243543 INFO: Carregando Arquivos de configurações
+21/2/2025 14:14:16 243543 INFO: configurações carregadas com sucesso
+21/2/2025 14:14:16 243543 INFO: iniciando backup
+21/2/2025 14:14:16 243543 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 14:14:16 243543 INFO: backup Efetuado com sucesso!
+21/2/2025 14:14:16 243543 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 15:15:32 247297 INFO: Carregando Arquivos de configurações
+21/2/2025 15:15:32 247297 INFO: configurações carregadas com sucesso
+21/2/2025 15:15:32 247297 INFO: iniciando backup
+21/2/2025 15:15:33 247297 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 15:15:33 247297 INFO: backup Efetuado com sucesso!
+21/2/2025 15:15:33 247297 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 15:15:53 253405 INFO: Carregando Arquivos de configurações
+21/2/2025 15:15:53 253405 INFO: configurações carregadas com sucesso
+21/2/2025 15:15:53 253405 INFO: iniciando backup
+21/2/2025 15:15:54 253405 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 15:15:54 253405 INFO: backup Efetuado com sucesso!
+21/2/2025 15:15:54 253405 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 15:15:20 258781 INFO: Carregando Arquivos de configurações
+21/2/2025 15:15:20 258781 INFO: configurações carregadas com sucesso
+21/2/2025 15:15:20 258781 INFO: iniciando backup
+21/2/2025 15:15:20 258781 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 15:15:20 258781 INFO: backup Efetuado com sucesso!
+21/2/2025 15:15:20 258781 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 15:15:20 258781 ERROR: erro ao remover arquivos antigos
+21/2/2025 15:15:20 258781 WARN: erro de teste
+21/2/2025 15:15:56 259051 INFO: Carregando Arquivos de configurações
+21/2/2025 15:15:56 259051 INFO: configurações carregadas com sucesso
+21/2/2025 15:15:56 259051 INFO: iniciando backup
+21/2/2025 15:15:57 259051 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 15:15:57 259051 INFO: backup Efetuado com sucesso!
+21/2/2025 15:15:57 259051 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 15:15:57 259051 ERROR: erro ao remover arquivos antigos
+21/2/2025 15:15:57 259051 WARN: erro de teste
+21/2/2025 15:15:15 259536 INFO: Carregando Arquivos de configurações
+21/2/2025 15:15:15 259536 INFO: configurações carregadas com sucesso
+21/2/2025 15:15:15 259536 INFO: iniciando backup
+21/2/2025 15:15:15 259536 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 15:15:15 259536 INFO: backup Efetuado com sucesso!
+21/2/2025 15:15:15 259536 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 15:15:15 259536 ERROR: erro ao remover arquivos antigos
+21/2/2025 15:15:15 259536 WARN: erro de teste
+21/2/2025 16:16:14 260418 INFO: Carregando Arquivos de configurações
+21/2/2025 16:16:14 260418 INFO: configurações carregadas com sucesso
+21/2/2025 16:16:14 260418 INFO: iniciando backup
+21/2/2025 16:16:14 260418 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 16:16:14 260418 INFO: backup Efetuado com sucesso!
+21/2/2025 16:16:14 260418 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 16:16:14 260418 ERROR: erro ao remover arquivos antigos
+21/2/2025 16:16:14 260418 WARN: erro de teste
+21/2/2025 16:16:23 262761 INFO: Carregando Arquivos de configurações
+21/2/2025 16:16:23 262761 INFO: configurações carregadas com sucesso
+21/2/2025 16:16:23 262761 INFO: iniciando backup
+21/2/2025 16:16:23 262761 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 16:16:23 262761 INFO: backup Efetuado com sucesso!
+21/2/2025 16:16:23 262761 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 16:16:23 262761 ERROR: erro ao remover arquivos antigos
+21/2/2025 16:16:23 262761 WARN: erro de teste
+21/2/2025 16:16:52 263360 INFO: Carregando Arquivos de configurações
+21/2/2025 16:16:52 263360 INFO: configurações carregadas com sucesso
+21/2/2025 16:16:52 263360 INFO: iniciando backup
+21/2/2025 16:16:52 263360 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 16:16:52 263360 INFO: backup Efetuado com sucesso!
+21/2/2025 16:16:52 263360 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 16:16:52 263360 ERROR: erro ao remover arquivos antigos
+21/2/2025 16:16:52 263360 WARN: erro de teste
+21/2/2025 16:16:27 268969 INFO: Carregando Arquivos de configurações
+21/2/2025 16:16:27 268969 INFO: configurações carregadas com sucesso
+21/2/2025 16:16:27 268969 INFO: iniciando backup
+21/2/2025 16:16:27 268969 INFO: tar: Removendo "/" inicial dos nomes dos membros
+tar: /home/jeferson/Documents/teste/teste-21-2-2025.tar.gz: arquivo alterado enquanto estava sendo lido
+
+21/2/2025 16:16:27 268969 INFO: backup Efetuado com sucesso!
+21/2/2025 16:16:27 268969 INFO: removendo arquivos com data maior que a retenção
+21/2/2025 16:16:41 270347 INFO: Carregando Arquivos de configurações
+21/2/2025 16:16:41 270347 WARN: arquivo: não existe config/config.yaml
+21/2/2025 16:16:41 270347 INFO: configurações carregadas com sucesso
+21/2/2025 16:16:41 270347 INFO: iniciando backup
+21/2/2025 16:16:41 270347 ERROR: erro ao fazer o backup dos arquivos
+21/2/2025 16:16:41 270347 FATAL ERROR: &{%!e(*os.ProcessState=&{270353 512 0xc00012a090}) []}
+
+21/2/2025 16:16:58 270460 INFO: Carregando Arquivos de configurações
+21/2/2025 16:16:58 270460 INFO: configurações carregadas com sucesso
+21/2/2025 16:16:58 270460 INFO: iniciando backup
+21/2/2025 16:16:58 270460 ERROR: erro ao fazer o backup dos arquivos
+21/2/2025 16:16:58 270460 FATAL ERROR: &{%!e(*os.ProcessState=&{270466 512 0xc000152090}) []}
+
+21/2/2025 16:16:47 270668 INFO: Carregando Arquivos de configurações
+21/2/2025 16:16:47 270668 INFO: configurações carregadas com sucesso
+21/2/2025 16:16:47 270668 INFO: iniciando backup
+21/2/2025 16:16:47 270668 ERROR: erro ao fazer o backup dos arquivos
+21/2/2025 16:16:47 270668 FATAL ERROR: &{%!e(*os.ProcessState=&{270674 512 0xc000152090}) []}
+
