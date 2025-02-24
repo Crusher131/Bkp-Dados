@@ -87,6 +87,7 @@ func defaultConfig() VConfig {
 			Send:    false,
 			Number:  "",
 		},
+		Configured: false,
 	}
 	return _cfg
 }
@@ -106,4 +107,7 @@ func GetBackupSource() []string {
 }
 func GetConfig() VConfig {
 	return *_cfg
+}
+func GetConfigured() bool {
+	return _cfg.Configured
 }

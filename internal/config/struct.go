@@ -1,8 +1,9 @@
 package BackupConfig
 
 type VConfig struct {
-	Backup   Backup
-	Whatsapp Whatsapp
+	Backup     Backup
+	Whatsapp   Whatsapp
+	Configured bool `yaml:"configured"`
 }
 
 type Backup struct {

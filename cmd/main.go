@@ -23,6 +23,9 @@ func main() {
 		logger.Fatal(err)
 	}
 	logger.Info("configurações carregadas com sucesso")
+	if !vconf.GetConfigured() {
+		logger.Fatal(fmt.Errorf("configure o arquivo config.yaml e altere o configured para true, para conseguir executar"))
+	}
 	logger.Info("iniciando backup")
 	if err := backup.BackupCreate(); err != nil {
 		s = false
